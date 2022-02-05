@@ -2,6 +2,7 @@
 <h3 align="center">I'm hard working engineering student specialized in Computer Science Engineering. I'm always passionate about to learn new technologies and currently I'm working on ML, Data Science. Over a pass couple of year I have work on many Web Development Project which include from building simple static website to more advance web application. I'm also familiar with Google, Microsoft technologies such as Firebase, Flutter, .NET, MySQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilimabhadane&label=Profile%20views&color=0e75b6&style=flat" alt="nilimabhadane" /> </p>
+<img align="right" alt="coding" width=400 scr="https://www.behance.net/gallery/78364175/Motion-Graphics-Animation-Animated-GIFs-for-web/modules/454846115">
 
 - 👯 I’m looking to collaborate on **GDSC**
 
