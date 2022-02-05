@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **nbhadane01@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-oyayiEFdZns9o6nw6LwCP0kt5DSiKgee4TNhTisu5A/edit?usp=sharing](https://docs.google.com/document/d/1-oyayiEFdZns9o6nw6LwCP0kt5DSiKgee4TNhTisu5A/edit?usp=sharing)
-
 - ⚡ Fun fact **very honest with my work**
 
 <h3 align="left">Connect with me:</h3>
